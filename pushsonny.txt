@@ -1,0 +1,17 @@
+commit b66a60bf276a95a40269be522f728c47897605cd
+Author: Elena <elelu@ucdavis.edu>
+Date:   Mon Apr 10 23:25:23 2023 -0700
+
+    add elena_weekend_plans.txt
+
+commit ad916607a36e63800855f2361f81a7caa4f286ea
+Author: Sonny Vang <socvang@ucdavis.edu>
+Date:   Mon Apr 10 22:26:58 2023 -0700
+
+    added my weekend plans
+
+commit 99f0c7327a5c559993bd04ea7826148baa0c8926
+Author: Sonny Vang <socvang@ucdavis.edu>
+Date:   Mon Apr 10 22:22:51 2023 -0700
+
+    added a README
